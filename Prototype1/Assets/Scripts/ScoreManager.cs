@@ -5,6 +5,11 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
+/*
+ * Brian Sida
+ * Assignment 2 | Prototype 1
+ * Description: Determines if player has won or lost the game 
+*/
 public class ScoreManager : MonoBehaviour
 {
     // Notice public static variables can be accessed from any script 

@@ -2,6 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+ * Brian Sida
+ * Assignment 2 | Prototype 1
+ * Description: Controls car(player) movement
+*/
 public class PlayerController : MonoBehaviour
 {
 

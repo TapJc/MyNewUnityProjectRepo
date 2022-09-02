@@ -2,6 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+ * Brian Sida
+ * Assignment 2 | Challenge 1
+ * Description: Camera follows plane(player)
+*/
 public class FollowPlayerX : MonoBehaviour
 {
     public GameObject plane;

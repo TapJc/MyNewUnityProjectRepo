@@ -5,7 +5,11 @@ using UnityEngine;
 // using UnityEngine.UI;
 
 // Attach this script to the player
-
+/*
+ * Brian Sida
+ * Assignment 2 | Prototype 1
+ * Description: Prompts a "Game Over" screen if player falls out of the road
+*/
 public class LoseOnFall : MonoBehaviour
 {   
     // Update is called once per frame

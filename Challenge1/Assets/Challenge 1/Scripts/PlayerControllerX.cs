@@ -2,6 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+ * Brian Sida
+ * Assignment 2 | Challenge 1
+ * Description: Controls plane(player) movement
+*/
 public class PlayerControllerX : MonoBehaviour
 {
     public float speed;

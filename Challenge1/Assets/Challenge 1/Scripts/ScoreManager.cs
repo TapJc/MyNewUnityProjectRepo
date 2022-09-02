@@ -4,6 +4,11 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
+/*
+ * Brian Sida
+ * Assignment 2 | Challenge 1
+ * Description: Determines if player has won or lost the game 
+*/
 public class ScoreManager : MonoBehaviour
 {
     public static bool gameOver;

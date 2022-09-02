@@ -5,6 +5,11 @@ using UnityEngine;
 // using UnityEngine.UI;
 
 // Attach this script to the player
+/*
+ * Brian Sida
+ * Assignment 2 | Prototype 1
+ * Description: Updates score when trigger zone is driven through
+*/
 public class PlayerEnterTrigger : MonoBehaviour
 {
     // Set this reference in the Inspector
