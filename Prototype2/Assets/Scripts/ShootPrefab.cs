@@ -2,6 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+ * Brian Sida
+ * Assignment 2 | Prototype 2
+ * Description: Gives the ability for the player to shoot food
+ */
 public class ShootPrefab : MonoBehaviour
 {
     public GameObject prefabToShoot;

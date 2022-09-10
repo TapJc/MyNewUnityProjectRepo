@@ -2,6 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+ * Brian Sida
+ * Assignment 2 | Prototype 2
+ * Description: Controls player movement and and keeps them within bounds
+ */
 public class PlayerController : MonoBehaviour
 {
     public float horizontalInput;

@@ -2,6 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+ * Brian Sida
+ * Assignment 2 | Prototype 2
+ * Description: Spawns the animals in front of the player at random times
+ */
 public class SpawnManager : MonoBehaviour
 {
     // Drag the prefabs to spawn onto this array in the inspector

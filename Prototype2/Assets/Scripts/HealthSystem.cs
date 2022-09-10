@@ -4,6 +4,11 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+/*
+ * Brian Sida
+ * Assignment 2 | Prototype 2
+ * Description: Manages they health system and determines when the player loses
+ */
 public class HealthSystem : MonoBehaviour
 {
     public int health;

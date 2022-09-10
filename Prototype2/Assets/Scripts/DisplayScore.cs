@@ -3,6 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+/*
+ * Brian Sida
+ * Assignment 3 | Prototype 2
+ * Description: Displays the score to the player
+ */
 public class DisplayScore : MonoBehaviour
 {
     public Text textbox;

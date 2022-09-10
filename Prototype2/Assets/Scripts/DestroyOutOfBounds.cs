@@ -3,6 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 
 // Add this script to the food and animal prefabs
+
+/*
+ * Brian Sida
+ * Assignment 2 | Prototype 2
+ * Description: Destroys food and animal objects when they get out of bounds
+ */
 public class DestroyOutOfBounds : MonoBehaviour
 {
     public float topBound = 20;
